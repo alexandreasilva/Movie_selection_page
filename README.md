@@ -1,6 +1,6 @@
-# Pagina de visualização de conteudo da Netflix
-## O que foi usado para o desenvolvimento
+# Netflix Content Preview Page
+## What was used for development
 - HTML
 - CSS
 - JavaScript
-#### O JavaScript foi usado para realizar a parte dos comando de manipulação do trailer do filme
+#### JavaScript was used to perform the command handling part of the movie trailer
