@@ -3,4 +3,4 @@
 - HTML
 - CSS
 - JavaScript
-### O JavaScript foi usado para realizar a parte dos comando de manipulação do trailer do filme
+#### O JavaScript foi usado para realizar a parte dos comando de manipulação do trailer do filme
